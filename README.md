@@ -1,14 +1,14 @@
 # How-to-change-the-data-label-connector-type-of-pie-and-doughnut-series-to-Bezier
 
-This article explains how to change the data label connector type of pie and doughnut series in Blazor Chart component.
+This article explains how to change the data label connector type of pie and doughnut series in Blazor Chart Component.
 
-**Changing data label connector type in blazor accumulation chart using Type property**
+**Changing data label connector type in Blazor Accumulation Chart**
 
 You can change the data marker's connector line type of pie and doughnut series to Bezier using the [Type ](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.AccumulationChartConnector.html#Syncfusion_Blazor_Charts_AccumulationChartConnector_Type)property of pie and doughnut series when the data label is placed [Outside](https://help.syncfusion.com/cr/blazor/Syncfusion.Blazor.Charts.AccumulationLabelPosition.html#Syncfusion_Blazor_Charts_AccumulationLabelPosition_Outside).
 
-The following code snippet and screenshot illustrate this.
+The following code snippet and screenshot illustrates this.
 
-**C#**
+**Index.razor**
 
 ```cshtml
 
@@ -50,11 +50,11 @@ The following code snippet and screenshot illustrate this.
 
 ```
 
-The following screenshot illustrate the output of the above code snippet.
+The following screenshot illustrates the output of the above code snippet.
 
 **Output:**
 
-![](/connector-type.png)
+![Data label connector type in accumulation chart](/connector-type.png)
 
 **Conclusion**
 
@@ -65,4 +65,3 @@ You can refer to our [Blazor Chart feature tour](https://www.syncfusion.com/blaz
 For current customers, you can check out our components from the [License and Downloads](https://www.syncfusion.com/sales/teamlicense) page. If you are new to Syncfusion, you can try our 30-day [free trial](https://www.syncfusion.com/downloads/blazor) to check out our other controls.
 
 If you have any queries or require clarifications, please let us know in the comments section below. You can also contact us through our [support forums](https://www.syncfusion.com/forums), [support portal](https://support.syncfusion.com/create), or [feedback portal](https://www.syncfusion.com/feedback/blazor-components?control=charts). We are always happy to assist you!
-
