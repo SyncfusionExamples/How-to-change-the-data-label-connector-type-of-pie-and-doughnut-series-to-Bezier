@@ -1,6 +1,6 @@
 # How-to-change-the-data-label-connector-type-of-pie-and-doughnut-series-to-Bezier
 
-This article explains how to change the data label connector type of pie and doughnut series in [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) Component.
+This article explains how to change the data label connector type of pie and doughnut series in [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) component.
 
 ## Prerequisites
 
