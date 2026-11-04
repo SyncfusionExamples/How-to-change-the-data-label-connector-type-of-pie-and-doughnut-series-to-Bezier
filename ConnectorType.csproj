@@ -8,7 +8,6 @@
 
   <ItemGroup>
     <PackageReference Include="Syncfusion.Blazor.Charts" Version="35.1.43" />
-    <PackageReference Include="Syncfusion.Blazor.Themes" Version="35.1.43" />
   </ItemGroup>
 
 </Project>

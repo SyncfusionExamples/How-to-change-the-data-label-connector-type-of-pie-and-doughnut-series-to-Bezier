@@ -1,6 +1,34 @@
 # How-to-change-the-data-label-connector-type-of-pie-and-doughnut-series-to-Bezier
 
-This article explains how to change the data label connector type of pie and doughnut series in Blazor Chart Component.
+This article explains how to change the data label connector type of pie and doughnut series in [Blazor Chart](https://www.syncfusion.com/blazor-components/blazor-charts) Component.
+
+## Prerequisites
+
+- Visual Studio 2026 or Visual Studio Code
+- [.NET 10 SDK](https://dotnet.microsoft.com/download/dotnet/10.0)
+
+## How to run the project
+
+**Visual Studio 2026**:
+
+* Checkout this project to a location in your disk.
+* Open the project (`ConnectorType.csproj`) file.
+* Restore the NuGet packages.
+* Run the project.
+
+**Visual Studio Code**:
+
+* Open the repository folder in Visual Studio Code.
+* Open the integrated terminal.
+* Navigate to the repository root.
+
+```bash
+cd How-to-change-the-data-label-connector-type-of-pie-and-doughnut-series-to-Bezier
+dotnet restore
+dotnet run
+```
+
+Open the URL displayed in the terminal after the application starts.
 
 **Changing data label connector type in Blazor Accumulation Chart**
 
